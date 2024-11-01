@@ -1,0 +1,12 @@
+{
+  "java.format.settings.url": ".vscode/eclipse-java-google-style.xml",
+  "[java]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": false
+  },
+  "java.dependency.packagePresentation": "hierarchical",
+  "java.project.explorer.showNonJavaResources": true,
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.debug.settings.onBuildFailureProceed": true
+}
